@@ -1,0 +1,15 @@
+D:\PROGRAMAÇÃO\ASP .NET\IntroEFCore\IntroEFCore\bin\Debug\net6.0\IntroEFCore.exe
+D:\PROGRAMAÇÃO\ASP .NET\IntroEFCore\IntroEFCore\bin\Debug\net6.0\IntroEFCore.deps.json
+D:\PROGRAMAÇÃO\ASP .NET\IntroEFCore\IntroEFCore\bin\Debug\net6.0\IntroEFCore.runtimeconfig.json
+D:\PROGRAMAÇÃO\ASP .NET\IntroEFCore\IntroEFCore\bin\Debug\net6.0\IntroEFCore.dll
+D:\PROGRAMAÇÃO\ASP .NET\IntroEFCore\IntroEFCore\bin\Debug\net6.0\IntroEFCore.pdb
+D:\PROGRAMAÇÃO\ASP .NET\IntroEFCore\IntroEFCore\obj\Debug\net6.0\IntroEFCore.csproj.AssemblyReference.cache
+D:\PROGRAMAÇÃO\ASP .NET\IntroEFCore\IntroEFCore\obj\Debug\net6.0\IntroEFCore.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROGRAMAÇÃO\ASP .NET\IntroEFCore\IntroEFCore\obj\Debug\net6.0\IntroEFCore.AssemblyInfoInputs.cache
+D:\PROGRAMAÇÃO\ASP .NET\IntroEFCore\IntroEFCore\obj\Debug\net6.0\IntroEFCore.AssemblyInfo.cs
+D:\PROGRAMAÇÃO\ASP .NET\IntroEFCore\IntroEFCore\obj\Debug\net6.0\IntroEFCore.csproj.CoreCompileInputs.cache
+D:\PROGRAMAÇÃO\ASP .NET\IntroEFCore\IntroEFCore\obj\Debug\net6.0\IntroEFCore.dll
+D:\PROGRAMAÇÃO\ASP .NET\IntroEFCore\IntroEFCore\obj\Debug\net6.0\refint\IntroEFCore.dll
+D:\PROGRAMAÇÃO\ASP .NET\IntroEFCore\IntroEFCore\obj\Debug\net6.0\IntroEFCore.pdb
+D:\PROGRAMAÇÃO\ASP .NET\IntroEFCore\IntroEFCore\obj\Debug\net6.0\IntroEFCore.genruntimeconfig.cache
+D:\PROGRAMAÇÃO\ASP .NET\IntroEFCore\IntroEFCore\obj\Debug\net6.0\ref\IntroEFCore.dll
