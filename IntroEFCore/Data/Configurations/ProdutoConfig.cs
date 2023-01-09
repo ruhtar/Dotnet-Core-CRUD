@@ -19,7 +19,8 @@ namespace IntroEFCore.Data.Configurations
             builder.Property(p => p.CodigoDeBarras).HasColumnType("VARCHAR(14)").IsRequired();
             builder.Property(p => p.Descricao).HasColumnType("VARCHAR(60)");
             builder.Property(p => p.Valor).IsRequired();
-            builder.Property(p => p.TipoProduto).HasConversion<string>(); //Enum pode ser interpretado como int ou string, então o HasConversion converte o dado o enum passado para string pra ser salvo no banco. 
+            builder.Property(p => p.TipoProduto).HasConversion<string>(); //Enum pode ser interpretado como int ou string,
+                                                                          //então o HasConversion converte o dado o enum passado para string pra ser salvo no banco. 
         }
     }
 }

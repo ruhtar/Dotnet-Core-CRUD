@@ -18,8 +18,10 @@ namespace IntroEFCore.Data
         }
 
 
-        public DbSet<Pedido> Pedidos{ get; set; }
-        
+        public DbSet<Pedido> Pedidos { get; set; } //Precisa disso?? Sim precisa
+        public DbSet<Produto> Produtos { get; set; } //Precisa disso?? Pra persistir os dados
+        public DbSet<Cliente> Clientes { get; set; } //Precisa disso?? E Interagir com o banco de usados, vc usa essas instancias
+
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "vle+a76l25wjTVidLKV3oS8Apjr+lWUWtAb5OPTL9V1xMXMo5o2tNI6A+WrB+//fnuQT115CA5autBncU3hkBA==",
+  "dgSpecHash": "WYMXSYx4v2zgAvzxkiNzJd0EswDfuHggakdhJ1qqN6FZGOZ0Ax12fYUaxS0Fol1jWTMd6mMciRuuqUp6//UeHg==",
   "success": true,
   "projectFilePath": "D:\\PROGRAMAÇÃO\\ASP .NET\\IntroEFCore\\IntroEFCore\\IntroEFCore.csproj",
   "expectedPackageFiles": [
@@ -10,6 +10,7 @@
     "C:\\Users\\Arthur\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\6.0.12\\microsoft.entityframeworkcore.analyzers.6.0.12.nupkg.sha512",
     "C:\\Users\\Arthur\\.nuget\\packages\\microsoft.entityframeworkcore.design\\6.0.12\\microsoft.entityframeworkcore.design.6.0.12.nupkg.sha512",
     "C:\\Users\\Arthur\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\6.0.12\\microsoft.entityframeworkcore.relational.6.0.12.nupkg.sha512",
+    "C:\\Users\\Arthur\\.nuget\\packages\\microsoft.entityframeworkcore.tools\\6.0.12\\microsoft.entityframeworkcore.tools.6.0.12.nupkg.sha512",
     "C:\\Users\\Arthur\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\6.0.0\\microsoft.extensions.caching.abstractions.6.0.0.nupkg.sha512",
     "C:\\Users\\Arthur\\.nuget\\packages\\microsoft.extensions.caching.memory\\6.0.1\\microsoft.extensions.caching.memory.6.0.1.nupkg.sha512",
     "C:\\Users\\Arthur\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0\\microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",
